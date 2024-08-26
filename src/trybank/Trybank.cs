@@ -1,5 +1,5 @@
 namespace Trybank.Lib;
-
+//
 public class TrybankLib
 {
     public bool Logged;
