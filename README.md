@@ -47,7 +47,7 @@ dotnet run --project src/trybank
 
 ## Como usar
 
-Ao rodar a aplicação, o sistema irá simular uma sequência de operações bancárias como login e operações padrões.
+Ao rodar a aplicação, o sistema irá simular uma sequência de operações bancárias como login e operações padrões. A sequência de ações está descrita em Program.cs. 
 
 ## Tecnologias utilizadas
 
