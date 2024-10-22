@@ -26,7 +26,7 @@ git clone https://github.com/arturpeixoto/projeto-trybank.git
 ### 2. Acesse o diretório do projeto
 
 ```bash
-cd trybank
+cd projeto-trybank
 ```
 
 ### 3. Restaure as dependências
